@@ -26,7 +26,7 @@ The game is relatively simple and easy to learn, but can be challenging to maste
 </p>
 
 <p align="center">
-    <img width="200" src="http://user-images.githubusercontent.com/114533891/212600838-a826040e-3378-467f-956b-7e945f58659f.pngg" alt="Material Bread logo">
+    <img width="200" src="http://user-images.githubusercontent.com/114533891/212600838-a826040e-3378-467f-956b-7e945f58659f.png" alt="Material Bread logo">
 </p>
 
 https://user-images.githubusercontent.com/114533891/212600268-38fed7b1-5371-455b-b8f2-d314cbe978bd.png
